@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "gms-billing-trig",
+  "private_key_id": "9859a839aac1d8d3e713c50a320becadd8986c56",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDM/Vor+ql8C3zu\n0Cu6hHt8qrs++5WJt/K9mzloOkw2oFmoSFqB3PjtJQQi5X4/stPL037zXCq0SWdP\nQcd1KWMbL7DqfIMH1+qXgP8jrL6a4nC1tvvdXyZELFEdZoNxKkLiDbAWSBOpLvsj\nZtBrkDzSvfVtN3BUcIEruop1R83MiTbRBn6nrHBCPponAARXligl2qLytPx8ggJr\nIOP3SjpvAMBRcYp2n5egJLkQiyIChOA9Dd6wMZEUcPvZrxytM8l8tQBjJOe50Ji/\nGpCvO20EjAqC71FCtUn1Ilnxg/Rfb45+OwlFWic+aeQmErIKKJfGWnbecbDYOper\n65ZuHOxZAgMBAAECggEADo7UzatgFP/cQzn3TEHZyT+qZTpilnGNyvrQOv9rTgFz\nGWXsc5OSl1KAXQAVlSC2NOzT875XoNuKFQSTzaJlhPBzbO7wMulNIkeJfYQCB1rn\nuUGbcoKUfTv04mGKgGNv243J5x/+sXTomTOIjFMMI5Ih129PMKTKyT6J7b+7NSua\n9JdCUwY83qlRijAHKfAPLsBpFWZmqAUIuPL+R8jfZfE+WQMtw2jT1q0i7Fw+/JJ3\neoXkTI/WIU6M8mJ0Y2Rezm8NkPFb59MTTBoQ4VBbXUZi56eX2FmcxiTm05XjeUJz\nVJVegWPX6k5J8cTTnWvLHxX+g+hdZ4jW/W62+7I89wKBgQDp4sdUiF1KdVQ745M1\nO1ntOOkFrRUV5J8Lj+XlKh6hvuFlttQ7ziKz8o4TqYOv1CpOLJcgu50QynM0yhZs\npTqORuPfE483i66ULJqQ99rGjHo1nO2jV/XEQ3At023+l6X6Zory2H+R0UG0T47V\nIalyDxsrzN3oKE6bA1l7qFckWwKBgQDgXyOvK3NNJ7LMeOwxYsfda4ch3exJIqdn\nop7fmuI8COZ+En9SLdIlj3LAUMg3tNxGjpCrTnPvMcqF3przIdJa9pJBnUOQ81G/\niKxJyMoXjwk8XLbD8uKpirpPEpQOdSODp+IrGPjDdKMcLqdAr7NBNoBHcwm7QtI2\nE9keMtkAWwKBgAyj+w3wiMo7aSALfqtD1+pgRwfNgPQ79PSVBGHMUvd+74Oly/an\nf2ymUVNyt/FK0DaFZm2YdjawGmXh/jBFBdMmta4ayoTAAeF0P65SFvrgIMLBBn7r\nhBblZiyz3qAB5jCQVjYlyU9CNgDew+N0/Elz044cdmnTs9vg5Hcwc/U9AoGBAM2c\nQd4viizlOUOJeKDVLeSpuh79+J8Yw6ID82Vj0PhFC7vyhXywgshqyTSVkrUB5249\nDTP+490JmtbMpOAzWUqEdIjubdFyOLK1s3S2LQQjzsnjCJVOignmGE+H7efFzrLC\ncU8fRjAPPb4AvsJXgIQ9RpazQ/K4DF0EGU5EOHnLAoGBAKFCBeGX7dwyYK9gAHSp\nAFa4jkMB2QtLlkHOmfxjNIo8dKxWi1G6sDXC4KwN575WFRKyKpSMKoSj+KaiX1ex\nFT2pHccakcC98YskIWvohN8Ko3OZQqngzy7ZZPRdy4jAT+S4RuRpTaQnqbyzkoAy\n8Bb4pyt9BVu1ru76Kl2xy2VA\n-----END PRIVATE KEY-----\n",
+  "client_email": "boss-main-sa-2023@gms-billing-trig.iam.gserviceaccount.com",
+  "client_id": "106343150594909437289",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/boss-main-sa-2023%40gms-billing-trig.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
